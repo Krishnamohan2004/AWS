@@ -1,0 +1,6 @@
+df -Th
+sudo xfs_growfs -d /
+lsblk
+sudo growpart /dev/nvme0n1 1
+lsblk
+df -h
