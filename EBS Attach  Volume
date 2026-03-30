@@ -1,1 +1,13 @@
-
+      df -h
+      df -Th
+      lsblk
+      file -s /dev/nvme1n1 
+      mkfs -t xfs /dev/nvme1n1 
+      mkdir -p /rohit/new
+      ls
+      lsblk
+      mount /dev/nvme1n1 /rohit/new
+     lsblk
+     ls
+     df -Th
+   
