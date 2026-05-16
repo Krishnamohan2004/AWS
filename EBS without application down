@@ -1,3 +1,4 @@
+Amazon linux steps
 df -Th
 sudo xfs_growfs -d /
 lsblk
