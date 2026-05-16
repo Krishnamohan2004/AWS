@@ -9,5 +9,5 @@
       mount /dev/nvme1n1 /rohit/new
      lsblk
      ls
-     df -Th
+      df -Th
    
